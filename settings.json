@@ -1,0 +1,10 @@
+{
+  "model_path": "E:\\Develop\\LM Studio_models\\PaddlePaddle\\PaddleOCR-VL-1.6-GGUF\\PaddleOCR-VL-1.6-GGUF.gguf",
+  "mmproj_path": "E:\\Develop\\LM Studio_models\\PaddlePaddle\\PaddleOCR-VL-1.6-GGUF\\PaddleOCR-VL-1.6-GGUF-mmproj.gguf",
+  "llama_server_exe": "E:\\Develop\\llama-b8882-bin-win-cuda-12.4-x64\\llama-server.exe",
+  "deepseek_base_url": "https://api.deepseek.com",
+  "deepseek_model": "deepseek-v4-flash",
+  "hotkey": "Ctrl+Shift+S",
+  "auto_start_ocr": true,
+  "hide_on_startup": true
+}

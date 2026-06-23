@@ -1,0 +1,35 @@
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Claude config
+.claude/
+
+# Binary/Executables
+*.exe
+*.dll
+*.dylib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
