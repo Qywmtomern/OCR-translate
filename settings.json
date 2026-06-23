@@ -5,6 +5,6 @@
   "deepseek_base_url": "https://api.deepseek.com",
   "deepseek_model": "deepseek-v4-flash",
   "hotkey": "Ctrl+Shift+S",
-  "auto_start_ocr": true,
-  "hide_on_startup": true
+  "auto_start_ocr": false,
+  "hide_on_startup": false
 }
